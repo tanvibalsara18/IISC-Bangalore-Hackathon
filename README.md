@@ -16,3 +16,6 @@ The following Python libraries are required to run the notebook:
 - `torch==2.3.1+cu121`
 
 These dependencies can be installed using:
+
+```bash
+pip install -r Requirements.txt

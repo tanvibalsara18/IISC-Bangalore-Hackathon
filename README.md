@@ -19,3 +19,21 @@ These dependencies can be installed using:
 
 ```bash
 pip install -r Requirements.txt
+
+**##Open-Source Model References**
+The notebook uses the YOLOv8n model checkpoint provided by Ultralytics:
+
+**Model Checkpoint URL:** yolov8n.pt
+
+**##System Requirements**
+The notebook was tested in a Google Colab environment with the following specifications:
+
+GPU: NVIDIA Tesla T4 (15 GB VRAM)
+CPU: 2 vCPUs
+RAM: 12.7 GB
+
+**##Recommended System Specifications for Local Execution**
+GPU: NVIDIA GPU with CUDA support (e.g., Tesla T4, RTX 2080, etc.)
+CPU: 4+ cores
+RAM: 16 GB or higher
+Disk Space: Minimum of 50 GB free space

@@ -8,23 +8,23 @@ This repository contains a notebook that demonstrates how to use the YOLOv8 mode
   - This notebook performs object detection using the YOLOv8 model.
   - Key operations include dataset loading, model setup, and inference.
   - 
-**##Open-Source Model References**
+## Open-Source Model References
 The notebook uses the YOLOv8n model checkpoint provided by Ultralytics:
 
-**Model Checkpoint URL:** yolov8n.pt
+Model Checkpoint URL: yolov8n.pt
 
-**##System Requirements**
+## System Requirements
 The notebook was tested in a Google Colab environment with the following specifications:
 
-GPU: NVIDIA Tesla T4 (15 GB VRAM)
-CPU: 2 vCPUs
-RAM: 12.7 GB
+- GPU: NVIDIA Tesla T4 (15 GB VRAM)
+- CPU: 2 vCPUs
+- RAM: 12.7 GB
 
-**##Recommended System Specifications for Local Execution**
-GPU: NVIDIA GPU with CUDA support (e.g., Tesla T4, RTX 2080, etc.)
-CPU: 4+ cores
-RAM: 16 GB or higher
-Disk Space: Minimum of 50 GB free space
+## Recommended System Specifications for Local Execution
+- GPU: NVIDIA GPU with CUDA support (e.g., Tesla T4, RTX 2080, etc.)
+- CPU: 4+ cores
+- RAM: 16 GB or higher
+- Disk Space: Minimum of 50 GB free space
 
 ## Requirements
 

@@ -1,0 +1,2 @@
+ultralytics==8.2.81
+torch==2.3.1+cu121
